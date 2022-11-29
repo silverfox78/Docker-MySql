@@ -1,5 +1,7 @@
 # MY-SQL
 
+![MySql](avatar.png)
+
 ## TL:DR
 
 > https://samuelbarrerabastidas.medium.com/mysql-con-docker-compose-1c980e966e17
