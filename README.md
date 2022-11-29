@@ -8,17 +8,17 @@
 
 > https://hub.docker.com/_/mysql
 
-## Repositorio Local
+## Repositorio Github
 
 > https://github.com/silverfox78/Docker-MySql.git
 
 ```sh
-git init
+git init --initial-branch=main
 git add .
 git commit -am "Docker-Compose Mysql || Ejemplo practico"
 git remote add origin https://github.com/silverfox78/Docker-MySql.git
 git pull --rebase origin main
-git push -u -f origin main
+git push origin main
 ```
 
 ## Identificacion
